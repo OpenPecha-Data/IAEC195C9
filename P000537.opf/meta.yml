@@ -1,22 +1,24 @@
-id: opecha:P000537
+id: P000537
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1PD181173
   title: སྔ་འགྱུར་གཡག་ཟེའི་གཏེར་སྟོན་བདེ་མཆོག་གླིང་པའི་གཏེར་ཆོས།
-  volume:
+  author: ''
+  volumes:
     ae214fd4bee8477d943d550df0b69cb2:
       image_group_id: I1KG16340
       title: Volume 1 of snga 'gyur g.yag ze'i gter ston bde mchog gling pa'i gter
         chos/
       volume_number: 1
       total_pages: 702
+      base_file: v001.txt
     31ab9b6cbeb24ad988435aa5309e035e:
       image_group_id: I1KG16341
       title: Volume 2 of snga 'gyur g.yag ze'i gter ston bde mchog gling pa'i gter
         chos/
       volume_number: 2
       total_pages: 1016
-  author: ''
+      base_file: v002.txt
 ebook_metadata:
   title: སྔ་འགྱུར་གཡག་ཟེའི་གཏེར་སྟོན་བདེ་མཆོག་གླིང་པའི་གཏེར་ཆོས།
   author: ''
